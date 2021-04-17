@@ -18,3 +18,26 @@ const resultado = n1TipoDatoNumero + n2TipoDatoNumero;
 
 //muestro el resultado
 console.log("El resultado de la suma es:" + resultado);
+
+/*
+Tipo de operaciones
+*/
+console.log("Son iguales? " + (1 == 1));
+console.log("Son distintos? " + (1 != 2));
+console.log("Son iguales incluso en su tipo? " + (1 === "1"));
+console.log("Son distintos incluso en su tipo? " + (1 === "2"));
+console.log("A es mayor a B? " + (10 > 5));
+console.log("A es mayor o igual a B? " + (10 >= 5));
+console.log("A es menor a B? " + (10 < 5));
+console.log("A es menor o igual a B? " + (10 <= 5));
+
+//Maestro
+const orden = "honey";
+
+let ipa = "ipa" == orden;
+let honey = "honey" == orden;
+let black = "black" == orden;
+
+if (condicion1 || condicion2 || condicion3) {
+  console.log("Sale birra");
+}
