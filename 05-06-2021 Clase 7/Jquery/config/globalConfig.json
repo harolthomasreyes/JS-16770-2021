@@ -1,0 +1,13 @@
+{
+    "animaciones": {
+        "perfiles": {
+            "tiempos":{
+                "carga": 2000,
+                "ocultar": 1000
+            }
+
+        }
+    }
+
+}
+
