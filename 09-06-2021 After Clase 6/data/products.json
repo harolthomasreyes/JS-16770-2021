@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"papas",
+        "quantity":10,
+        "price":120,
+        "discount":{
+            "discount":12
+        }
+    },{
+        "id":2,
+        "name":"fideos",
+        "quantity":5,
+        "price":73.2,
+        "discount":{
+            "porcentageDiscount":5
+        }
+    },{
+        "id":3,
+        "name":"tomates",
+        "quantity":66,
+        "price":60
+    },{
+        "id":4,
+        "name":"jabon",
+        "quantity":3,
+        "price":86.9,
+        "discount":{
+            "discount":100
+        }
+    }
+]
